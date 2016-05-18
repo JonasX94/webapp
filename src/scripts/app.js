@@ -12,5 +12,5 @@ require('./views/cook.js')
 
 // 定义默认视图
 SPA.config({
-  indexView: 'guide'
+  indexView: 'index'
 });
